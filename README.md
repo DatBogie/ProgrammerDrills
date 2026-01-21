@@ -20,7 +20,7 @@ I'm unsure how balanced (or unbalanced) these actually are in game (hence the ra
 
 ## Installation
 
-1. Download the ZIP found in the [latest release](https://github.com/DatBogie/ProgrammerDrills/releases/latest).
+1. Download the [latest release](https://github.com/DatBogie/ProgrammerDrills/releases/latest) of the datapack.
 2. Download the [latest release](https://github.com/DatBogie/ProgrammerDrills) of the resource pack.
-3. Put the datapack (still zipped) in your world's `datapacks` folder.
-4. Put the resource pack (still zipped) in your `resourcepacks` folder.
+3. Put the datapack (still zipped) in your world's `datapacks` folder (`.minecraft/saves/<world_name>/datapacks`).
+4. Put the resource pack (still zipped) in your game's `resourcepacks` folder (`.minecraft/resourcepacks`).
