@@ -4,5 +4,8 @@ mkdir "$a"
 cp pack.mcmeta "$a"
 cp pack.png "$a"
 cp -r data "$a"
-zip -rm "$a.zip" "$a"
+cd "$a"
+zip -r "../$a.zip" .
+cd ..
+rm -rf "$a"
 zip -m "ProgrammerDrills.zip" "$a.zip"
