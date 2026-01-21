@@ -1,0 +1,1 @@
+$execute unless block ~ ~ ~ #programmerdrills:drill_invalid_$(score) align xyz run function programmerdrills:placedrill with storage $(path)

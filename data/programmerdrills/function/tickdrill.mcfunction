@@ -1,0 +1,4 @@
+$execute if entity @n[distance=..1,tag=DrillOn, type=interaction] unless block ~ ~-1 ~ #programmerdrills:drill_air if score $(score) DrillTimer >= Config_$(score) DrillTimer run function programmerdrills:drillmine with storage $(path)
+execute if block ~ ~-1 ~ #programmerdrills:drill_air run function programmerdrills:drillfall
+$execute if entity @n[distance=..1,tag=DrillOn, type=interaction] align xyz run function programmerdrills:drillpoweredtick with storage $(path)
+$execute if block ~ ~ ~ #programmerdrills:drill_invalid_$(score) as @n[distance=..1,tag=DrillOn, type=interaction] run function programmerdrills:breakdrill with storage $(path)

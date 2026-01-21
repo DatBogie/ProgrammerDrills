@@ -1,0 +1,2 @@
+$execute unless block ~ ~-1 ~ #$(path)_immune run particle ash ~.5 ~-.125 ~.5 .125 .125 .125 0 100 normal
+$execute if entity @s[nbt={item:{components:{"minecraft:custom_data":{score:"power"}}}}] run function programmerdrills:powerdrillparticles with storage $(path)

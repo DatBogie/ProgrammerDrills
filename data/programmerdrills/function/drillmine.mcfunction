@@ -1,0 +1,2 @@
+$execute unless entity @s[nbt={item:{components:{"minecraft:custom_data":{score:"power"}}}}] unless block ~ ~-1 ~ #$(path)_immune run setblock ~ ~-1 ~ air destroy
+$execute if entity @s[nbt={item:{components:{"minecraft:custom_data":{score:"power"}}}}] unless block ~ ~-1 ~ #$(path)_immune run function programmerdrills:powerdrillmine with storage $(path)

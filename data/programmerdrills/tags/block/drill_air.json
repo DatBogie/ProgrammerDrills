@@ -1,0 +1,15 @@
+{
+    "values": [
+        "#air",
+        "water",
+        "lava",
+        "#buttons",
+        "#wall_signs",
+        "#wall_hanging_signs",
+        "wall_torch",
+        "redstone_wall_torch",
+        "copper_wall_torch",
+        "#climbable",
+        "structure_void"
+    ]
+}

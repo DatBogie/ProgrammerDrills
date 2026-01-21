@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CNC",
+        "IoI",
+        "HsH"
+    ],
+    "key": {
+        "C": "waxed_copper_block",
+        "I": "diamond_block",
+        "o": "netherite_upgrade_smithing_template",
+        "H": "honey_block",
+        "s": "netherite_spear",
+        "N": "netherite_block"
+    },
+    "result": {
+        "id": "minecraft:music_disc_lava_chicken",
+        "count": 1,
+        "components": {"minecraft:custom_data":{"is_drill":true,"path":"programmerdrills:netherite_drill","score":"netherite"},"minecraft:custom_name":{"text":"Netherite Drill","italic":false,"color":"yellow"},"item_model":"programmerdrills:netherite_drill","!minecraft:jukebox_playable":{},"max_stack_size":4,"lore":[{"text":"Speed: 20 Bl/M", "italic":false, "color":"gray"}]}
+    }
+}

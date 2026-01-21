@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SNS",
+        "NBN",
+        "sNs"
+    ],
+    "key": {
+        "S": "wither_skeleton_skull",
+        "s": "nether_star",
+        "N": "netherite_block",
+        "B": "beacon"
+    },
+    "result": {
+        "id": "minecraft:music_disc_lava_chicken",
+        "count": 1,
+        "components": {"minecraft:custom_data":{"is_drill":true,"path":"programmerdrills:power_drill","score":"power"},"minecraft:custom_name":{"text":"Power Drill","italic":false,"color":"light_purple"},"item_model":"programmerdrills:power_drill","!minecraft:jukebox_playable":{},"max_stack_size":4,"lore":[{"text":"Speed: 60 Bl/M", "italic":false, "color":"gray"},{"text":"Size: 3x3", "italic":false, "color":"gray"}]}
+    }
+}

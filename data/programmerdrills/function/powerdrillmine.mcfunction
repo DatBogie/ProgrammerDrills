@@ -1,0 +1,9 @@
+$execute positioned ~-1 ~-1 ~ unless block ~ ~ ~ #$(path)_immune run setblock ~ ~ ~ air destroy
+$execute positioned ~1 ~-1 ~ unless block ~ ~ ~ #$(path)_immune run setblock ~ ~ ~ air destroy
+$execute positioned ~ ~-1 ~-1 unless block ~ ~ ~ #$(path)_immune run setblock ~ ~ ~ air destroy
+$execute positioned ~ ~-1 ~1 unless block ~ ~ ~ #$(path)_immune run setblock ~ ~ ~ air destroy
+$execute positioned ~-1 ~-1 ~-1 unless block ~ ~ ~ #$(path)_immune run setblock ~ ~ ~ air destroy
+$execute positioned ~1 ~-1 ~1 unless block ~ ~ ~ #$(path)_immune run setblock ~ ~ ~ air destroy
+$execute positioned ~-1 ~-1 ~1 unless block ~ ~ ~ #$(path)_immune run setblock ~ ~ ~ air destroy
+$execute positioned ~1 ~-1 ~-1 unless block ~ ~ ~ #$(path)_immune run setblock ~ ~ ~ air destroy
+$execute positioned ~ ~-1 ~ unless block ~ ~ ~ #$(path)_immune run setblock ~ ~ ~ air destroy

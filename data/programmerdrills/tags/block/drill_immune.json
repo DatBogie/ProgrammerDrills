@@ -1,0 +1,30 @@
+{
+    "values": [
+        "bedrock",
+        "end_gateway",
+        "end_portal",
+        "end_portal_frame",
+        "nether_portal",
+        "reinforced_deepslate",
+        "command_block",
+        "chain_command_block",
+        "repeating_command_block",
+        "jigsaw",
+        "structure_block",
+        "test_block",
+        "test_instance_block",
+        "respawn_anchor",
+        "spawner",
+        "trial_spawner",
+        "vault",
+        "chest",
+        "trapped_chest",
+        "#copper_chests",
+        "ender_chest",
+        "#wooden_shelves",
+        "#shulker_boxes",
+        "brewing_stand",
+        "#programmerdrills:drill_air",
+        "barrier"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CCC",
+        "IoI",
+        "HsH"
+    ],
+    "key": {
+        "C": "waxed_copper_block",
+        "I": "diamond_block",
+        "o": "waxed_copper_golem_statue",
+        "H": "honey_bottle",
+        "s": "diamond_spear"
+    },
+    "result": {
+        "id": "minecraft:music_disc_lava_chicken",
+        "count": 1,
+        "components": {"minecraft:custom_data":{"is_drill":true,"path":"programmerdrills:diamond_drill","score":"diamond"},"minecraft:custom_name":{"text":"Diamond Drill","italic":false,"color":"white"},"item_model":"programmerdrills:diamond_drill","!minecraft:jukebox_playable":{},"max_stack_size":4,"lore":[{"text":"Speed: 6 Bl/M", "italic":false, "color":"gray"}]}
+    }
+}
