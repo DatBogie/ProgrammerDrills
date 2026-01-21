@@ -18,6 +18,14 @@ Power | 2 blocks per minute | 3x3
 
 I'm unsure how balanced (or unbalanced) these actually are in game (hence the rather pricey recipes); please send me any feedback via issues!
 
+<details>
+
+<summary>Screenshot</summary>
+
+![A screenshot of the datapack. There are four pillars. From left to right: iron blocks, diamond blocks, netherite blocks, and netherite blocks with a beacon on top. Each pillar as its respective drill both in an item frame on the center block, and physically in the world directly in front of it.](./.web/screenshot.png)
+
+</details>
+
 ## Installation
 
 1. Download the [latest release](https://github.com/DatBogie/ProgrammerDrills/releases/latest) of the datapack.
